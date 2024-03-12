@@ -5,7 +5,7 @@ requests==2.31.0
 urllib3==1.26.18
 validators==0.21.0
 Werkzeug==2.3.8
-tensorflow>=2.4.0
+tensorflow>=2.11.1
 keras
 pillow
 Quart~=0.14.1
@@ -18,3 +18,6 @@ tzlocal
 python-slugify
 dictdiffer
 cached-property
+hypercorn>=0.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
