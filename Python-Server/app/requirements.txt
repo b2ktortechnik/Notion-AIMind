@@ -1,7 +1,7 @@
 # To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
 clarifai-grpc==6.7.1
 #git+https://github.com/elblogbruno/notion-py.git
-requests==2.31.0
+requests==2.32.0
 urllib3==1.26.18
 validators==0.21.0
 Werkzeug==2.3.8
