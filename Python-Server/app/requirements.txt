@@ -4,11 +4,11 @@ clarifai-grpc==6.7.1
 requests==2.31.0
 urllib3==1.26.18
 validators==0.21.0
-Werkzeug==2.3.8
+Werkzeug==3.0.6
 tensorflow>=2.4.0
 keras
 pillow
-Quart~=0.14.1
+Quart~=0.19.7
 numpy~=1.22.2
 schedule
 #notion-py requirements
