@@ -18,3 +18,4 @@ tzlocal
 python-slugify
 dictdiffer
 cached-property
+h2>=4.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
