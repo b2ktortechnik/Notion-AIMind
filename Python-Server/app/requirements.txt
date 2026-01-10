@@ -2,9 +2,9 @@
 clarifai-grpc==6.7.1
 #git+https://github.com/elblogbruno/notion-py.git
 requests==2.31.0
-urllib3==1.26.18
+urllib3==2.6.3
 validators==0.21.0
-Werkzeug==2.3.8
+Werkzeug==3.1.5
 tensorflow>=2.4.0
 keras
 pillow
